@@ -176,7 +176,7 @@ def Iterate():
 
 
 
-trainingFile = "D:\\LR\\LRTrainNew.txt"
+trainingFile = "./LRTrainNew.txt"
 
 
 ReadData(trainingFile)
